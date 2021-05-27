@@ -1,0 +1,39 @@
+.edit-btn 
+{
+	color: #dc3545;
+	cursor: pointer;
+}
+.edit-btn:hover 
+{
+	color: darkgrey;
+}
+.save-btn 
+{
+	color: green;
+	cursor: pointer;
+}
+.cancel-btn 
+{
+	color: blue;
+	cursor: pointer;
+}
+.nav-link
+{
+	color:crimson; 
+	font-size:18px; 
+	text-decoration: underline;
+}
+.fas 
+{
+	color: #dc3545;
+}
+
+
+span > i 
+{
+	cursor: pointer;
+}
+span > i:hover 
+{
+	color: gray;
+}
